@@ -1,0 +1,26 @@
+week 1:
+
+* Learned about evolving of technologies, like recent POKEMON GO with augumented reality.
+* Usage of this tech. to other ascepts of devloping softwares.
+* Finding flaws and ways to correct them in a software.
+* How to develop a better version of POKEMON GO game.
+
+week 2:
+
+* The essence of QUALITY.
+* Things that differentiate between a good quality software and a relatively bad one.
+* Ways to develop a software that is good.
+* Relativity in quality of software: good is bad when better is excepted.
+* Overview of big company products: why they r called so?
+* what is excepted from us(Software Engineers) in terms of quality.
+
+week 3:
+
+* Whats SE is all about.
+* View of djikstra about this course.
+* Principles of SE.
+* Various ascepts of Software development from customer idea to implementation.
+* Approaches in Architectural design.
+* Relating processes in film making to software development.
+* about projects available and to be chosen.
+
